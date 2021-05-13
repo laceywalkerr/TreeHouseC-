@@ -2,13 +2,10 @@ using System;
 
 class Program
 {
-    static double Price(int quantity)
+    static void Main(string[] args)
     {
-        double pricePerUnit;
-        if (quantity > 100)
-        {
-            pricePerUnit = 1.5;
-        }
+        //Displays "Hello World" on the terminal.
+        System.Console.Writeline("Hello Lacey!");
     }
 }
 
