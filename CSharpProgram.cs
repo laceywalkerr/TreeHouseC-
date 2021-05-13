@@ -9,4 +9,4 @@ class Program
     }
 }
 
-// Type "dotnet run" into the console to run the project (errors will appear, but this is step one)
+// Type "dotnet run" into the console to run the project (errors will appear, but this is step)
