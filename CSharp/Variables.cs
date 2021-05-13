@@ -19,3 +19,9 @@ class Program
         System.Console.WriteLine(12 - number);
     }
 }
+
+// The terminal will print out:
+//4                                                                                                               
+//hello                                                                                                           
+//6                                                                                                               
+//8
