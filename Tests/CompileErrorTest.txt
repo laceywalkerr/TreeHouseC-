@@ -1,0 +1,86 @@
+Question 1
+You've received the following compile error:
+Program.cs(7,6): error CS1513: } expected [/home/treehouse/myproject.csproj]
+What is wrong with the program?
+
+Answer
+A curly brace is missing in the code, in the Program.cs file on line 7.
+
+Quiz Question 2 
+You've received the following compile error:
+Program.cs(7,6): error CS1513: } expected [/home/treehouse/myproject.csproj]
+What line number was the error detected on?
+
+Answer 
+7
+
+Quiz Question 3 
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this program so it will compile and run.
+
+class Program
+{
+    static void Main(string[] args)
+    {
+         _??_ Displays "Hello World!" on the terminal.
+        System.Console.WriteLine("Hello World!");
+    }
+}
+
+What should be where the "_??_" is on line 27?
+
+Answer
+"//" 
+Because it is a comment.
+
+Quiz Question 4 
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blanks to complete this program so it will compile and run.
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Displays "Hello World!" on the terminal.
+        System.Console.WriteLine_??_"Hello World!"_??_;
+    }
+}
+
+What should be where the two "_??_" are on line 49?
+
+Answer
+"(" ")"
+open and closed brackets/parentheses
+
+Quiz Question 5
+You've received the following compile error:
+Program.cs(7,6): error CS1513: } expected [/home/treehouse/myproject.csproj]
+What file does the error occur in?
+
+Answer
+Program.cs
+
+Quiz Question 6 
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this program so it will compile and run.
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Displays "Hello World!" on the terminal.
+        System.Console.WriteLine("Hello World!")_??_
+    }
+}
+
+What should be where the two "_??_" are on line 78?
+
+Answer
+";"
+a semi colon
