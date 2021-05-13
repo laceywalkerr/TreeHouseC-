@@ -1,0 +1,8 @@
+.Net is a framework developed by microsoft 
+
+.Net is a platform that can run programs written in various languages, including C#, F# and Visual Basic.
+
+C# is primarily an object-oriented programming language, as well as the most popular language on the .Net platform.
+
+.NET is not the same as C#, nore is it an alternative, because it isn't a language at all.
+It's the framework that is used to *run* code written in C#, and other languages as mentioned previously. 
