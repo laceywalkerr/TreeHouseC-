@@ -47,3 +47,15 @@ class Program
 // This would give an error. "CS0219: The variable 'number' is assigned, but it's value is never used"
 // You would need to remove "var" so it can be treated as an assignment, not a declaration.
 // Remeber that you can only declare a variable once, but that you can assign it as many times as you need.
+
+// Some Variable naming rules:
+// * Must -start- with a letter (upper-case or lower-case is irrelevant) or an underscore character "_".
+// Can use letters, numbers, or underscore characters, but no symbols or spaces.
+// Can't use C# keywords like "var" or "class" as names. (If you do this, you will get a compile error and need to fix it.)
+
+// Variable name conventions:
+// Definitly prefer that it starts with a lower case. "studentFirstName" is much more acceptable than "StudentFirstName". (It makes them stand out from method and class names.)
+// Try to avoid underscore characters. "studentFirstName" is more acceptable than "student_First_Name".
+// Always rememeber to camelCase. "studentfirstname" is much harder to read than "studentFirstName".
+// If the variable is just one word, then use lowercase. "name" is fine.
+// Avoid abbreviations unless very common. Also avoid single letters.
