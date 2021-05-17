@@ -1,0 +1,24 @@
+Challenge Task 1 of 1
+In the Main method, call the System.Console.WriteLine method and have it print the string "Hello!".
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // YOUR CODE HERE
+    }
+}
+
+
+**Answer:
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        string greeting = "Hello!"; 
+        
+        System.Console.WriteLine(greeting); 
+    }
+}
+
