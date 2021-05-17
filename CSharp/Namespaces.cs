@@ -1,3 +1,5 @@
+// Namespaces are groupings of similar classes.
+
 class Program
 {
     static void Main(string[] args)
