@@ -1,0 +1,73 @@
+**Quiz Question 1 of 5
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank to complete this code.
+
+var _____ = "hello";
+System.Console.WriteLine(greeting);
+
+
+    Answer:
+    greeting
+
+**Quiz Question 2 of 5
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code.
+
+var greeting = "hello";
+System.Console.WriteLine(_____);
+
+    Answer:
+    greeting
+
+**Quiz Question 3 of 5
+Which of these is a variable name that is not only valid, it also follows C# naming conventions?
+
+Choose the correct answer below:	   
+A	
+1stName
+
+B	
+firstname
+
+C	
+firstName
+
+D	
+first_name
+
+    Answer:
+    C   
+    firstName
+    (cammelCase ftw)
+
+**Quiz Question 4 of 5
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code.
+
+var greeting __ "hello";
+System.Console.WriteLine(greeting);
+
+    Answer:
+    =
+
+**Quiz Question 5 of 5
+What's it called when you define a variable prior to assigning any values to it?
+
+Choose the correct answer below:	   
+A	
+A variable specification
+
+B	
+A variable declaration
+
+C	
+A variable authorization
+
+Answer:
+B 
+A variable declaration
