@@ -1,0 +1,117 @@
+**Quiz Question 1 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this variable declaration. Use the shortcut type name, not the full name.
+
+_____ flag;
+flag = true;
+System.Console.WriteLine(flag);
+
+    Answer:
+    bool
+
+**Quiz Question 2 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this variable declaration. Use the shortcut type name, not the full name.
+
+____ word;
+word = "bird";
+System.Console.WriteLine(word);
+
+    Answer:
+    string
+
+**Quiz Question 3 of 7
+What is the using directive used for?
+
+Choose the correct answer below:	   
+A	
+Use shortcut type names like int and string
+
+B	
+Use the var keyword to declare variables
+
+C	
+Use types from a namespace without having to write the namespace name
+
+    Answer:
+    C	
+    Use types from a namespace without having to write the namespace name
+
+
+**Quiz Question 4 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this variable declaration. Use the shortcut type name, not the full name.
+
+____ wholeNumber;
+wholeNumber = 4;
+System.Console.WriteLine(wholeNumber + 10);
+
+    Answer:
+    int
+
+
+**Quiz Question 5 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+We're currently getting the following compile errors for the below code:
+
+Program.cs(6,9): error CS0246: The type or namespace name 'Random' could not be found (are you missing a using directive or an assembly reference?) [/home/treehouse/workspace/workspace.csproj]
+Program.cs(6,32): error CS0246: The type or namespace name 'Random' could not be found (are you missing a using directive or an assembly reference?) [/home/treehouse/workspace/workspace.csproj]
+Program.cs(10,32): error CS0103: The name 'Math' does not exist in the current context [/home/treehouse/workspace/workspace.csproj]
+Program.cs(12,9): error CS0103: The name 'Console' does not exist in the current context [/home/treehouse/workspace/workspace.csproj]
+Fill in the blank to complete this code so it will compile.
+
+using ____;
+
+class Program
+{
+    static void Main(string[] args)
+    {
+        // Create a new random number generator.
+        Random generator = new Random();
+        // Generate a floating-point number between 0 and 1.
+        double randomNumber = generator.NextDouble();
+        // Round the number to a single decimal place.
+        double roundedNumber = Math.Round(randomNumber, 1);
+        // Print the rounded number.
+        Console.WriteLine(roundedNumber);
+    }
+}
+
+    Answer:
+    System
+
+
+**Quiz Question 6 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this variable declaration. Use the shortcut type name, not the full name. Notice that because we're using single quotes, we're assigning a value that holds only a single character, not an entire string. So we can't use a type of string, it needs to be a type that represents a single character...
+
+_____ letter;
+letter = 'c';
+System.Console.WriteLine(letter);
+
+    Answer:
+    char
+
+
+**Quiz Question 7 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this variable declaration. Use the shortcut type name, not the full name.
+
+____ pi;
+pi = 3.14;
+System.Console.WriteLine(pi * 2);
+
+    Answer:
+    double
