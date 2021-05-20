@@ -1,0 +1,62 @@
+**Quiz Question 1 of 7
+What is a method?
+
+Choose the correct answer below:	   
+A	
+A group of code statements that are put together to perform a particular task.
+
+B	
+A template that objects are created from.
+
+C	
+A place in memory to store information.
+
+    Answer:
+    A	
+    A group of code statements that are put together to perform a particular task.
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
+
+Answer:
+
+
+
+**
