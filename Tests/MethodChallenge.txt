@@ -17,46 +17,151 @@ A place in memory to store information.
 
 
 
-**
+** Quiz Question 2 of 7
+When you cause a method to be run, what are you doing?
 
-Answer:
+Choose the correct answer below:	   
+A	
+Dereferencing the method.
 
+B	
+Combing the method.
 
-
-**
-
-Answer:
-
-
-
-**
-
-Answer:
+C	
+Calling the method.
 
 
-
-**
-
-Answer:
-
+    Answer:
+    C	
+    Calling the method.
 
 
-**
+**Quiz Question 3 of 7
+What are method arguments?
 
-Answer:
+Choose the correct answer below:	   
+A	
+Values a method sends back to its caller.
+
+B	
+Conflicts between methods that have the same name.
+
+C	
+Values associated with a method call that change what the method does when it runs.
+
+    Answer:
+    C	
+    Values associated with a method call that change what the method does when it runs.
+
+
+**Quiz Question 4 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code so it will compile and print "Hi!" out to the terminal.
+
+using System;
+
+class Program
+{
+
+    static void ____()
+    {
+        Console.WriteLine("Hi!");
+    }
+
+    static void Main(string[] args)
+    {
+        SayHi();
+    }
+
+}
+
+    Answer:
+    SayHi
+
+
+**Quiz Question 5 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code so it will compile and print "Hi!" out to the terminal.
+
+using System;
+
+class Program
+{
+
+    static void SayHi()
+    {
+        Console.WriteLine("Hi!");
+    }
+
+    static void Main(string[] args)
+    {
+        ___();
+    }
+
+}
+
+    Answer:
+    SayHi
 
 
 
-**
+**Quiz Question 6 of 7
+Please fill in the correct answer in each blank provided below.
 
-Answer:
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code so it will compile and print "Hi!" out to the terminal.
+
+using System;
+
+class Program
+{
+
+    static void SayHi()
+    {
+        Console.WriteLine("Hi!");
+    }
+
+    static void Main(string[] args)
+    {
+        SayHi____;
+    }
+
+}
+
+    Answer:
+    ()
 
 
 
-**
 
-Answer:
+**Quiz Question 7 of 7
+Please fill in the correct answer in each blank provided below.
+
+Fill in the blank(s) below:	   
+Fill in the blank to complete this code so it will compile and print "Hi!" out to the terminal.
+
+using System;
+
+class Program
+{
+
+    static void SayHi()
+    {
+        Console.WriteLine("Hi!");
+    }
+
+    static void ___(string[] args)
+    {
+        SayHi();
+    }
+
+}
+
+    Answer:
+    Main
 
 
-
-**
