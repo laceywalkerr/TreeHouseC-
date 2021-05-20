@@ -16,7 +16,8 @@ class Program
 
 // Now if you use the using directive ("using System;") at the start of the program you can remove the namespace in front of the types names.
 // EX:
-using System; //<----- Having this here, we dont have to put the "System." in front of the type names. (Honestly I prefer this way, it gets too repetative and IMO unnessicary, but it's important to know these things.)
+//using System; //<----- Having this here, we dont have to put the "System." in front of the type names. (Honestly I prefer this way, it gets too repetative and IMO unnessicary, but it's important to know these things.)
+// Commented it out for now because it was erroring it out.
 class Program
 {
     static void Main(string[] args)
