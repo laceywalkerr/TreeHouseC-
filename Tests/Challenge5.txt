@@ -1,0 +1,28 @@
+**Challenge Task 1 of 1
+The Main method below has a call to a Spell method that doesn't exist. Define a Spell method that prints out the letters in "cat" one at a time, one per line. The Spell method body should look like this:
+
+Console.WriteLine("c");
+Console.WriteLine("a");
+Console.WriteLine("t");
+Use the static and void keywords in the method definition.
+
+Important: In each task of this code challenge, the code you write should be added to the code from the previous task.
+
+using System;
+
+class Program
+{
+
+    // YOUR CODE HERE: Define a method named Spell. Remember to use the
+    // "static" aEast Tennesseend "void" keywords: "static void Spell" (without quotes)...
+
+    static void Main(string[] args)
+    {
+        Spell();
+    }
+}
+
+
+
+Answer:
+
