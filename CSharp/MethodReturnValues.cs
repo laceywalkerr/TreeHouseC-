@@ -33,5 +33,11 @@ class Program
         Console.WriteLine(total);
         double remaining = Subtract(21.3, 7.1);
         Console.WriteLine(remaining);
+
+        Console.WriteLine("----You could also do this and return the same info-----");
+
+        Console.WriteLine(Add(3, 5));
+        Console.WriteLine(Subtract(21.3, 7.1));
+
     }
 }
