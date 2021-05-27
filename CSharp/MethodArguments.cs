@@ -33,5 +33,19 @@ class Program
     static void Main(string[] args)
     {
         Add(3, 5);
+        // This first argument to Add is going to be the value that is the first parameter.
+        // Lets try adding another column with different arguments.
+        Add(10.05, 7.2);
+        Subtract(9, 3);
+        Subtract(21.3, 7.1);
+
+        Wait(3000);
+    }
+
+    static void Wait(int delay)
+    {
+        Console.WriteLine("Waiting...");
+        Thread.Sleep(delay);
+        Console.WriteLine("Done");
     }
 }
