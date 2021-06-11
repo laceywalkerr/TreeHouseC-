@@ -2,3 +2,7 @@
 You would always know C being the procedural language while C# is a more object-oriented language. 
 The biggest difference is that C# supports automatic garbage collection by Common Language Runtime (CLR) while C does not. 
 C# primarily needs a .NET framework to execute while C is a platform-agnostic language. 
+
+2. What is Common Language Runtime (CLR)?
+CLR handles program execution for various languages including C#. 
+The architecture of CLR handles memory management, garbage collection, security handling, and looks like: 
