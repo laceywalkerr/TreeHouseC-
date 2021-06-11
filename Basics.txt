@@ -13,3 +13,27 @@ Garbage collection is the process of freeing up memory that is captured by unwan
 If the occupied memory by the objects exceeds the pre-set threshold value.
 If the garbage collection method is called
 If your system has low physical memory
+
+4. What are the types of classes in C#?
+Class is an entity that encapsulates all the properties of its objects and instances as a single unit. C# has four types of such classes:
+
+Static class: Static class, defined by the keyword ‘static’ does not allow inheritance. Therefore, you cannot create an object for a static class.
+Sample code:
+
+static class classname  
+{  
+  //static data members  
+  //static methods  
+}
+Partial class: Partial class, defined by the keyword ‘partial’ allows its members to partially divide or share source (.cs) files.
+Abstract class: Abstract classes are classes that cannot be instantiated where you cannot create objects. Abstract classes work on the OOPS concept of abstraction. Abstraction helps to extract essential details and hide the unessential ones.
+Sealed class: Sealed classes are classes that cannot be inherited. Use the keyword sealed to restrict access to users to inherit that class. 
+ 
+sealed class InterviewBit
+{
+   // data members
+   // methods
+   .
+   .
+   .
+}
